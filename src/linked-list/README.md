@@ -4,6 +4,7 @@
 
 ## Quando utilizar
 
+- Número indefinido de elementos
 - Muitos itens para armazenar
 - A ordem dos itens não importa
 - Mais inserções do que consultas
@@ -21,7 +22,7 @@
 
 ## Exemplos de uso
 
-- Cálculos com números muito grandes (long long long long....)
+- Cálculos com números muito grandes
 - Representações de matrizes grandes
 - Playlist (lista duplamente encadeada)
 - Turnos de um RPG (lista circular)
