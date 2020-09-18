@@ -4,16 +4,10 @@
 
 ## Quando utilizar
 
--
-
-## Vantagens
-
--
-
-## Desvantagens
-
--
+- Quando o primeiro a entrar é o primeiro a sair (**F**irst-**i**n, **F**irts-**o**ut)
 
 ## Exemplos de uso
 
--
+- Fila de impressão
+- Filas do "mundo real"
+- Transferência asíncrona de dados (I/O, sockets)
