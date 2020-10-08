@@ -18,11 +18,9 @@
 ## Desvantagens
 
 - Busca lenta
-- Não sequencial
+- Não sequencial (index)
 
 ## Exemplos de uso
 
-- Cálculos com números muito grandes
-- Representações de matrizes grandes
 - Playlist (lista duplamente encadeada)
 - Turnos de um RPG (lista circular)
